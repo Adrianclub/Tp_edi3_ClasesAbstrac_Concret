@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1626530077 source:d:\codeblocks\proyects_codeblocks\tp_abstract-interface_edi2\claseabstracta\main.cpp
+	"student.h"
+	<iostream>
+
+1626529739 source:d:\codeblocks\proyects_codeblocks\tp_abstract-interface_edi2\claseabstracta\student.cpp
+	"student.h"
+	<string>
+	<iostream>
+
+1626529269 d:\codeblocks\proyects_codeblocks\tp_abstract-interface_edi2\claseabstracta\student.h
+	"human.h"
+	<string>
+
+1626530194 d:\codeblocks\proyects_codeblocks\tp_abstract-interface_edi2\claseabstracta\human.h
+
+1626529082 source:d:\codeblocks\proyects_codeblocks\tp_abstract-interface_edi2\claseabstracta\human.cpp
+	"human.h"
+	<iostream>
+
